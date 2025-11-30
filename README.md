@@ -33,6 +33,10 @@ All models were compared based on forecast accuracy.
 
 ---
 
+📈 Time-Series Forecasting Dashboard
+
+This repository also includes a Power BI dashboard built to visualize stock market trends and forecasting insights. The dashboard showcases historical patterns, moving averages, trend analysis, and future predictions based on time-series models, helping users better understand stock behavior and data-driven outcomes.
+
 ## 👤 Author  
 **Susheel Kumar Kumawat**  
 🔗 GitHub: https://github.com/susheelkumawat28
